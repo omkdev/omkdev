@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 🚀 About Me  
 <br>
 
