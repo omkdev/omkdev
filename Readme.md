@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 🚀 About Me<br><br>- 🔭 **I’m currently working on:** Java, Spring Boot, MySQL, PHP (CodeIgniter), React.js, Node.js<br>- 🤝 **Looking to collaborate on:** Backend projects, REST APIs, Mini SaaS Tools, Automation systems<br>- 🆘 **Looking for help with:** Advanced Spring Boot, Microservices, CI/CD<br>- 🌱 **Learning:** Hibernate, Spring Boot Advanced, CodeIgniter, Database Optimization<br>- 💬 **Ask me about:** Java, MySQL, APIs, PHP, React, Backend Architecture<br>- ⚡ **Fun fact:** I love transforming complex problems into simple working systems 🚀<br><br>---<br><br>
 ## 💼 Experience<br><br>
 ## **Software Engineer Intern — Trully Capital Fintech Pvt Ltd**<br>📍 *On-site | Jul 2025 – Present*<br><br>
