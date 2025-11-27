@@ -109,11 +109,14 @@ Team Collaboration
 
 # 📊 GitHub Stats
 
-<!-- Remove the buggy yellow stats card -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkdev&theme=gruvbox_light&hide_border=false" alt="Streak Stats" />
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkdev&theme=gruvbox_light&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkdev&layout=compact&theme=gruvbox_light&hide_border=false" alt="Top Languages" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkdev&layout=compact&theme=gruvbox_light&hide_border=false)
 
 ---
 
