@@ -107,7 +107,7 @@ Team Collaboration
 
 ---
 
-# 📊 GitHub Stats (Error-Free)
+# 📊 GitHub Stats 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=omkdev&theme=gruvbox_light&show_icons=true&hide_border=false)
 
