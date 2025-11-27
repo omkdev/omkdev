@@ -1,14 +1,24 @@
-# 👋 Hi, I'm Om Mahesh Kanse  
-Full-Stack Developer | Java • React • Node.js • AWS | Love building apps, automation & 3D web.
+<h1 align="center">👋 Hi, I'm Om Mahesh Kanse</h1>
+
+<p align="center">
+  <strong>Full-Stack Developer</strong> | Java • React • Node.js • AWS  
+  <br/>
+  Passionate about building apps, automation & 3D web experiences.
+</p>
 
 ---
 
-## 📊 GitHub Metrics  
-(Automatically updates every day)
+<h2 align="center">📊 GitHub Metrics</h2>
+<p align="center">(Automatically updates every day)</p>
 
-![Metrics](./metrics.svg)
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Metrics" />
+</p>
 
 ---
 
-## 🌐 PROJECT  
-https://omkdev.github.io/SplineRobo/
+<h2 align="center">🌐 Project</h2>
+
+<p align="center">
+  <a href="https://omkdev.github.io/SplineRobo/" target="_blank">🚀 SplineRobo — Interactive 3D Experience</a>
+</p>
