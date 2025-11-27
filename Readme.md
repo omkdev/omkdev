@@ -71,8 +71,10 @@ Team Collaboration
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omkanse/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omkanse/)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkanse1010@gmail.com)  
+
+---
 
 # 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -103,10 +105,17 @@ Team Collaboration
 ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=omkdev&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=omkdev&theme=gruvbox_light&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omkdev&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+# 📊 GitHub Stats (Error-Free)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=omkdev&theme=gruvbox_light&show_icons=true&hide_border=false)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkdev&theme=gruvbox_light&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkdev&layout=compact&theme=gruvbox_light&hide_border=false)
+
+---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omkdev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
