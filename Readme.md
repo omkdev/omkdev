@@ -107,13 +107,13 @@ Team Collaboration
 
 ---
 
-#  📊 GitHub Stats (2025)
+# 📊 GitHub Stats
 
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkdev&theme=github_dark)
+<!-- Remove the buggy yellow stats card -->
 
-![2025 Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omkdev&theme=github_dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkdev&theme=gruvbox_light&hide_border=false)
 
-![2025 Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omkdev&theme=github_dark&utcOffset=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omkdev&layout=compact&theme=gruvbox_light&hide_border=false)
 
 ---
 
