@@ -117,7 +117,7 @@ Team Collaboration
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkdev&layout=compact&theme=gruvbox_light&hide_border=false" alt="Top Languages" />
 </p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkdev&theme=tokyo-night)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkdev&theme=github-dark&area=true&hide_border=true)
 
 ---
 
