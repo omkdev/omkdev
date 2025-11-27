@@ -7,7 +7,6 @@ Passionate about automation, 3D web & intelligent applications.
 ---
 
 ## 📊 GitHub Metrics  
-(Automatically updates every day)
 
 ![Metrics](./metrics.svg)
 
