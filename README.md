@@ -10,5 +10,5 @@ Full-Stack Developer | Java • React • Node.js • AWS | Love building apps, 
 
 ---
 
-## 🌐 Portfolio  
+## 🌐 PROJECT  
 https://omkdev.github.io/SplineRobo/
