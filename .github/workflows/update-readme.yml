@@ -1,0 +1,31 @@
+name: Update GitHub Profile README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"     # updates every 12 hours
+  workflow_dispatch:            # allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Update README with Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: README.md
+          token: ${{ secrets.GH_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          plugin_activity: yes
+          plugin_activity_days: 30
+          plugin_activity_visibility: public
+          plugin_followup: yes
+          plugin_languages: yes
+          plugin_languages_ignored: html, css 
+          plugin_languages_sections: most-used
+          plugin_languages_details: lines, bytes-size
+          plugin_stars: yes
+          plugin_stars_limit: 4
