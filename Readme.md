@@ -107,7 +107,7 @@ Team Collaboration
 
 ---
 
-# ### 📊 GitHub Stats (2025)
+#  📊 GitHub Stats (2025)
 
 ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omkdev&theme=github_dark)
 
