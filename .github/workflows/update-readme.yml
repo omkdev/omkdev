@@ -1,66 +1,60 @@
 name: GitHub Metrics
 
 on:
-  schedule: [{ cron: "0 */12 * * *" }]
-  push: { branches: ["main"] }
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
           user: omkdev
           template: classic
-          filename: metrics.svg
           base: header, activity, community, repositories, metadata
 
           # -----------------------------
-          # 🔥 Enable PREMIUM FEATURES
+          # 🔥 PREMIUM FEATURES ENABLED
           # -----------------------------
 
-          # 🏆 Achievements
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_threshold: X
 
-          # ⏱ Coding habits
           plugin_habits: yes
-          plugin_habits_from: 100
+          plugin_habits_from: 200
           plugin_habits_days: 30
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          # 🧠 Languages graph
           plugin_languages: yes
           plugin_languages_colors: github
-          plugin_languages_aliases: yes
           plugin_languages_limit: 6
           plugin_languages_sections: most-used
 
-          # 📅 3D Contribution graph
           plugin_calendar: yes
           plugin_calendar_ignored: no
-          plugin_calendar_settings: { "chart_type": "3d" }
+          plugin_calendar_settings:
+            chart_type: 3d
 
-          # 💬 Followers / social
           plugin_people: yes
           plugin_people_types: followers
           plugin_people_limit: 24
 
-          # 🎵 Music (optional - Apple Music)
-          plugin_music: no
-
-          # 🚀 Website audit (PageSpeed)
           plugin_pagespeed: yes
-          plugin_pagespeed_url: https://omkdev.github.io/SplineRobo/
+          plugin_pagespeed_url: "https://omkdev.github.io/SplineRobo/"
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
 
-          # 🛠 Technology icons
           plugin_topics: yes
           plugin_topics_limit: 30
           plugin_topics_mode: icons
